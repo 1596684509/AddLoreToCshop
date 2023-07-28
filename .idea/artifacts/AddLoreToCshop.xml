@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AddLoreToCshop">
+    <output-path>$PROJECT_DIR$/../../../我的世界/我的世界服务器插件/MyPlugmin</output-path>
+    <root id="archive" name="AddLoreToCshop.jar">
+      <element id="module-output" name="AddLoreToCshop.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+name: AddLoreToCshop
+version: '${version}'
+main: xiao_student.addloretocshop.AddLoreToCshop
+commands:
+  addloretocshop:
+    aliases:
+      - al
